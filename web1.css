@@ -267,7 +267,6 @@ nav li a:hover {
   }
   .contact_form form .labels {
     display: flex;
-<<<<<<< HEAD
     flex-direction: column;
     margin-bottom: 20px;
   }
@@ -282,7 +281,6 @@ nav li a:hover {
     padding: 10px 15px;
     font-size: 16px;
     border: 1px solid #ccc;
-=======
     gap:20px;
 }
 .labels textarea{
@@ -301,6 +299,7 @@ nav li a:hover {
     width: 30vw;
     padding:10px;
     border:none;
+    margin-bottom: 14px;
             
 }
 textarea{
@@ -328,7 +327,6 @@ textarea{
     height:40px;
     width:100px;
     border:1px solid;
->>>>>>> 287487f (Changes)
     border-radius: 5px;
     outline: none;
     transition: 0.3s border;
